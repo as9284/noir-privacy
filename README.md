@@ -147,8 +147,7 @@ We may update this Privacy Policy from time to time to reflect changes in the ap
 
 If you have any questions about this Privacy Policy or Noir Journal's privacy practices, please contact us at:
 
-**Email:** anthonys68892@gmail.com
-
+**Email:** anthonys68892@gmail.com  
 **Subject Line:** Noir Journal Privacy Policy Inquiry
 
 ## 13. User Rights
